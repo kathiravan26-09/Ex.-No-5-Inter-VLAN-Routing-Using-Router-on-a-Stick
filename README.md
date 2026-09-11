@@ -1,4 +1,6 @@
 # Ex. No: 5 Inter-VLAN Routing Using Router-on-a-Stick
+# NAME : KATHIRAVAN B
+# REG NO: 212223060117
 # Date:
 ________________________________________
 # Objective
@@ -87,10 +89,23 @@ Router(config-if)# no shutdown<br>
 ________________________________________
 # Output (Screenshots)
 •	VLAN configuration on the switch<br>
+<img width="1920" height="1080" alt="Screenshot (129)" src="https://github.com/user-attachments/assets/daa4383e-5001-41d4-b959-72801d6a4776" />
+
 •	Router subinterface configuration<br>
+<img width="1920" height="1080" alt="Screenshot (130)" src="https://github.com/user-attachments/assets/bb3a9749-d44d-438d-b30e-f2da6b2f64a1" />
+
 •	PC IP settings<br>
+
+<img width="1920" height="1080" alt="Screenshot (125)" src="https://github.com/user-attachments/assets/a2a8549b-251e-4d2d-ab6c-2fb637c31844" />
+<img width="1920" height="1080" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/9001c40b-871b-413c-a529-d4758c43cdb3" />
+<img width="1920" height="1080" alt="Screenshot (128)" src="https://github.com/user-attachments/assets/eead1482-31a8-40ce-93b0-f89b1e84190f" />
+<img width="1920" height="1080" alt="Screenshot (127)" src="https://github.com/user-attachments/assets/1af54f0c-9222-4838-868f-fd889a872e8a" />
 •	Successful ping between PCs in different VLANs after routing<br>
+<img width="1920" height="1080" alt="Screenshot (131)" src="https://github.com/user-attachments/assets/4cab4bbc-fa82-4d31-8b9f-32e1b0b134f0" />
+
 •	Successful ping between PCs in the same VLAN<br>
+<img width="1920" height="1080" alt="Screenshot (132)" src="https://github.com/user-attachments/assets/d4a04292-879b-41d0-aaef-77842715e9c8" />
+
 ________________________________________
 # Result
 Inter-VLAN routing was successfully configured using the Router-on-a-Stick method. PCs in different VLANs could communicate through the router.
